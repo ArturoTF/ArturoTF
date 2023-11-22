@@ -28,10 +28,10 @@
 <p align="center">
   <a href="https://skillicons.dev">
 	  
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,,&perline=14" />
- <img src="https://skillicons.dev/icons?i=css,angular,html,js,ts,nodejs&perline=14" />
- <img src="https://skillicons.dev/icons?i=java,cpp,kotlin,py&perline=14" />
- <img src="https://skillicons.dev/icons?i=vscode,discord,eclipse,github,git,linux,&perline=14" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,,&perline=14" /> <br>
+ <img src="https://skillicons.dev/icons?i=css,angular,html,js,ts,nodejs&perline=14" /><br>
+ <img src="https://skillicons.dev/icons?i=java,cpp,kotlin,py&perline=14" /><br>
+ <img src="https://skillicons.dev/icons?i=vscode,discord,eclipse,github,git,linux,&perline=14" /><br>
    
   </a>
 </p>
