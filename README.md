@@ -42,6 +42,12 @@
 
 > Tables [CSS](https://arturotf.github.io/ArturoTF/estilos/tablas/tablas.css) [TEST](https://arturotf.github.io/ArturoTF/estilos/tablas/tablasExample.html)<br>
 > Form [CSS](https://arturotf.github.io/ArturoTF/estilos/form/form.css) [TEST](https://arturotf.github.io/ArturoTF/estilos/form/formExample.html)
+> List of Tasks [CSS](https://arturotf.github.io/ArturoTF/estilos/soon.html) [TEST](https://arturotf.github.io/ArturoTF/estilos/soon.html)
+# To do
+> Navigation Bar [CSS](https://arturotf.github.io/ArturoTF/estilos/soon.html) [TEST](https://arturotf.github.io/ArturoTF/estilos/soon.html)
+> Modal [CSS](https://arturotf.github.io/ArturoTF/estilos/soon.html) [TEST](https://arturotf.github.io/ArturoTF/estilos/soon.html)
+> Page structure (Header, Main, footer  full Static) [CSS](https://arturotf.github.io/ArturoTF/estilos/soon.html) [TEST](https://arturotf.github.io/ArturoTF/estilos/soon.html)
+> Photography Portfolio Template (with Masonry) [CSS](https://arturotf.github.io/ArturoTF/estilos/soon.html) [TEST](https://arturotf.github.io/ArturoTF/estilos/soon.html)
   <br>
   <br>
 
