@@ -4,10 +4,10 @@ function toggleCode() {
 
     if (codeContainer.style.display === "none" || codeContainer.style.display === "") {
         codeContainer.style.display = "block";
-        button.innerHTML = "Ocultar Código";
+        button.innerHTML = "Hide Code";
     } else {
         codeContainer.style.display = "none";
-        button.innerHTML = "Mostrar Código";
+        button.innerHTML = "Show Code";
     }
 }
 

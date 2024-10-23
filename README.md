@@ -10,9 +10,9 @@
 
 <br><br>
 
-- :school: I am a `Junior` at Cross-platform application development at [FESAC SCHOOL SAN JOSE SS.CC.](https://fesac.es/).
+- :school: I am a `Junior` at Cross-platform application development at [Core Network](https://www.corenetworks.es/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I'm very interested in `Big Data`.
+- :student: I'm very interested in `Full Stack Developer`.
 - 🤔 Looking for `challenges`.
 - :nerd_face: **Always learning** new programming languages.
 <br>
@@ -37,6 +37,9 @@
 ## 🛠️ My Templates
 
   Tables [CSS](https://arturotf.github.io/ArturoTF/estilos/tablas/tablas.css) [TEST](https://arturotf.github.io/ArturoTF/estilos/tablas/tablasExample.html)
+  Issues [here](https://github.com/ArturoTF/ArturoTF/issues/new) o by email
+
+
 
 
 
