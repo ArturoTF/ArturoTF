@@ -1,0 +1,34 @@
+.toggle-button {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+/* Estilo para el bloque de código */
+.code-container {
+    display: none;
+    margin: 20px auto;
+    width: 90%;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+    overflow: auto;
+}
+
+pre {
+    margin: 0;
+}
+
+code {
+    font-family: Consolas, Monaco, 'Courier New', monospace;
+    font-size: 14px;
+}
