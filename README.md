@@ -37,6 +37,7 @@
 ## 🛠️ My Templates
 
   Tables [CSS](https://arturotf.github.io/ArturoTF/estilos/tablas/tablas.css) [TEST](https://arturotf.github.io/ArturoTF/estilos/tablas/tablasExample.html)
+  <br>
   Issues [here](https://github.com/ArturoTF/ArturoTF/issues/new) o by email
 
 
