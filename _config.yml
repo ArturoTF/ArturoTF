@@ -1,0 +1,4 @@
+plugins:
+  - jekyll-target-blank
+gems:
+  - jekyll-target-blank
