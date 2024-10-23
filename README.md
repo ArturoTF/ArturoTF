@@ -41,8 +41,6 @@
 > This code is open source, anyone can use it.
 
 > Tables [CSS](https://arturotf.github.io/ArturoTF/estilos/tablas/tablas.css) [TEST](https://arturotf.github.io/ArturoTF/estilos/tablas/tablasExample.html)
-  <br>
-  
 > Form [CSS](https://arturotf.github.io/ArturoTF/estilos/form/form.css) [TEST](https://arturotf.github.io/ArturoTF/estilos/form/formExample.html)
   <br>
   <br>
