@@ -10,7 +10,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at Cross-platform application development at [Core Network](https://www.corenetworks.es/).
+- :school: I am a `Junior` at Cross-platform application development/Web at [Core Network](https://www.corenetworks.es/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I'm very interested in `Full Stack Developer`.
 - 🤔 Looking for `challenges`.
@@ -35,10 +35,15 @@
 </p>
 
 ## 🛠️ My Templates
-
+  <br>
+  > [!IMPORTANT]  
+  > This code is open source, anyone can use it.
+  <br>
   Tables [CSS](https://arturotf.github.io/ArturoTF/estilos/tablas/tablas.css) [TEST](https://arturotf.github.io/ArturoTF/estilos/tablas/tablasExample.html)
   <br>
-  Issues [here](https://github.com/ArturoTF/ArturoTF/issues/new) or by email
+  <br>
+  > [!CAUTION]
+  > Issues [here](https://github.com/ArturoTF/ArturoTF/issues/new) or by email
 
 
 
