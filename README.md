@@ -36,14 +36,19 @@
 
 ## 🛠️ My Templates
   <br>
-  > **IMPORTANT**  
-  > This code is open source, anyone can use it.
+
+> [!IMPORTANT]  
+> This code is open source, anyone can use it.
+
   <br>
   Tables [CSS](https://arturotf.github.io/ArturoTF/estilos/tablas/tablas.css) [TEST](https://arturotf.github.io/ArturoTF/estilos/tablas/tablasExample.html)
   <br>
   <br>
-  > **CAUTION**
-  > Issues [here](https://github.com/ArturoTF/ArturoTF/issues/new) or by email
+  
+> [!CAUTION]
+> Issues [here](https://github.com/ArturoTF/ArturoTF/issues/new) or by email
+
+
 
 
 
