@@ -1,0 +1,19 @@
+.gradient-DeepViolet {
+	background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+}
+
+.gradient-DeepOcean{
+    background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+}
+
+.gradient-VioletBreeze{
+    background: linear-gradient(to bottom, #3f2b96, #a8c0ff);
+}
+
+.gradient-SkyatDusk{
+	background: linear-gradient(to bottom, #ff6b6b, #ff9f43 20%, #546de5 50%, #1e3799 80%, #0c1445 100%);
+}
+
+.gradient-CalmSea{
+    background: linear-gradient(to bottom, #1b3b4b, #145374 30%, #0c819d 60%, #067486 80%, #023a42);
+}
